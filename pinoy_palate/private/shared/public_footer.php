@@ -1,0 +1,8 @@
+    
+  <footer>
+    <?php include(SHARED_PATH . '/public_copyright_disclaimer.php'); ?>
+    <span>🐦</span>
+  </footer>
+  
+  </body>
+</html>
